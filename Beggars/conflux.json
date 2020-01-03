@@ -1,0 +1,43 @@
+[
+    {
+        "mapper":"NeilPerry",
+        "startTime":11030,
+        "endTime":49651
+    },
+    {
+        "mapper":"Ameth Rianno",
+        "startTime":49651,
+        "endTime":77237
+    },
+    {
+        "mapper":"NeilPerry",
+        "startTime":77237,
+        "endTime":99306
+    },
+    {
+        "mapper":"Ameth Rianno",
+        "startTime":99306,
+        "endTime":122409
+    },
+    {
+        "mapper":"NeilPerry",
+        "startTime":122409,
+        "endTime":143444
+    },
+    {
+        "mapper":"Ameth Rianno",
+        "startTime":143444,
+        "endTime":165513
+    },
+    {
+        "mapper":"NeilPerry",
+        "startTime":187582,
+        "endTime":198616
+    },
+    {
+        "mapper":"Ameth Rianno",
+        "startTime":198616,
+        "endTime":220685
+    }
+
+]
